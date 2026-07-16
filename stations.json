@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-07-17 02:16:19 IST",
+  "updated_date": "2026-07-17 02:17:03 IST",
   "data": [
     {
       "code": "AADR",
@@ -1972,8 +1972,8 @@
       "code": "BC",
       "name": "Bareilly City",
       "nearby_stations": [
-        "BRY",
         "BE",
+        "BRY",
         "IZN"
       ]
     },
@@ -10471,7 +10471,7 @@
       "nearby_stations": [
         "LR",
         "KSG",
-        "MDJN"
+        "MD"
       ]
     },
     {
@@ -16834,7 +16834,7 @@
       "nearby_stations": [
         "SGAC",
         "GQL",
-        "DKNT"
+        "NKOT"
       ]
     },
     {
@@ -19491,7 +19491,7 @@
     },
     {
       "code": "MAQ",
-      "name": "Mangaluru Cntl",
+      "name": "Mangalore Cntl",
       "nearby_stations": [
         "MAJN",
         "ULL",
@@ -21149,8 +21149,8 @@
       "name": "Mori Bera",
       "nearby_stations": [
         "KTR",
-        "JWB",
-        "SJWB"
+        "SJWB",
+        "JWB"
       ]
     },
     {
@@ -29006,7 +29006,7 @@
       "nearby_stations": [
         "KOTA",
         "GQL",
-        "DKNT"
+        "NKOT"
       ]
     },
     {
