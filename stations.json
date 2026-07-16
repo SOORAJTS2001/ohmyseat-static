@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-07-17 02:19:37 IST",
+  "updated_date": "2026-07-17 02:48:14 IST",
   "data": [
     {
       "code": "AADR",
@@ -8948,7 +8948,7 @@
       "nearby_stations": [
         "AII",
         "SDH",
-        "MD"
+        "MDJN"
       ]
     },
     {
@@ -11940,8 +11940,8 @@
       "code": "HAN",
       "name": "Hindaun City",
       "nearby_stations": [
-        "SMBJ",
         "SMVJ",
+        "SMBJ",
         "FSP"
       ]
     },
@@ -19144,8 +19144,8 @@
       "name": "Ladpura",
       "nearby_stations": [
         "GEK",
-        "MDJN",
-        "MD"
+        "MD",
+        "MDJN"
       ]
     },
     {
@@ -19689,8 +19689,8 @@
       "code": "MCPE",
       "name": "Marwar Chapri",
       "nearby_stations": [
-        "MTDB",
         "MTD",
+        "MTDB",
         "JOM"
       ]
     },
@@ -24818,7 +24818,7 @@
       "nearby_stations": [
         "KNDP",
         "COO",
-        "SMVJ"
+        "SMBJ"
       ]
     },
     {
@@ -33213,7 +33213,7 @@
     },
     {
       "code": "TVC",
-      "name": "Trivandrum Cntl",
+      "name": "Trivandrum Central",
       "nearby_stations": [
         "TVP",
         "TVCN",
