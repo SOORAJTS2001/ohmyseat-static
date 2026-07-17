@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-07-17 19:21:15 IST",
+  "updated_date": "2026-07-17 19:35:40 IST",
   "data": [
     {
       "code": "AADR",
@@ -4700,8 +4700,8 @@
       "code": "BRLY",
       "name": "Biroliya",
       "nearby_stations": [
-        "SJWB",
         "JWB",
+        "SJWB",
         "FA"
       ]
     },
@@ -8948,7 +8948,7 @@
       "nearby_stations": [
         "AII",
         "SDH",
-        "MDJN"
+        "MD"
       ]
     },
     {
@@ -14039,8 +14039,8 @@
       "name": "Jogi Magra",
       "nearby_stations": [
         "GOTN",
-        "MTD",
-        "MTDB"
+        "MTDB",
+        "MTD"
       ]
     },
     {
@@ -16834,7 +16834,7 @@
       "nearby_stations": [
         "SGAC",
         "GQL",
-        "NKOT"
+        "DKNT"
       ]
     },
     {
@@ -19689,8 +19689,8 @@
       "code": "MCPE",
       "name": "Marwar Chapri",
       "nearby_stations": [
-        "MTD",
         "MTDB",
+        "MTD",
         "JOM"
       ]
     },
@@ -21149,8 +21149,8 @@
       "name": "Mori Bera",
       "nearby_stations": [
         "KTR",
-        "SJWB",
-        "JWB"
+        "JWB",
+        "SJWB"
       ]
     },
     {
@@ -24818,7 +24818,7 @@
       "nearby_stations": [
         "KNDP",
         "COO",
-        "SMVJ"
+        "SMBJ"
       ]
     },
     {
@@ -29006,7 +29006,7 @@
       "nearby_stations": [
         "KOTA",
         "GQL",
-        "NKOT"
+        "DKNT"
       ]
     },
     {
