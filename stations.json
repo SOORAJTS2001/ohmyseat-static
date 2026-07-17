@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-07-17 19:50:31 IST",
+  "updated_date": "2026-07-17 20:05:45 IST",
   "data": [
     {
       "code": "AADR",
@@ -5165,8 +5165,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BE",
-        "BRY"
+        "BRY",
+        "BE"
       ]
     },
     {
@@ -14039,8 +14039,8 @@
       "name": "Jogi Magra",
       "nearby_stations": [
         "GOTN",
-        "MTD",
-        "MTDB"
+        "MTDB",
+        "MTD"
       ]
     },
     {
