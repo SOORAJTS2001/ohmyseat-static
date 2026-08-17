@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-08-14 07:17:58 IST",
+  "updated_date": "2026-08-17 16:36:16 IST",
   "data": [
     {
       "code": "AADR",
@@ -5059,8 +5059,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BE",
-        "BRY"
+        "BRY",
+        "BE"
       ]
     },
     {
@@ -5929,7 +5929,7 @@
       "nearby_stations": [
         "IZN",
         "BC",
-        "BE"
+        "BRY"
       ]
     },
     {
@@ -7113,9 +7113,9 @@
       "code": "CTC",
       "name": "Cuttack",
       "nearby_stations": [
+        "KNPR",
         "NRG",
-        "BRAG",
-        "BBSN"
+        "BRAG"
       ]
     },
     {
@@ -15307,6 +15307,7 @@
       "name": "Kapilas Road",
       "nearby_stations": [
         "NRG",
+        "KNPR",
         "CTC"
       ]
     },
@@ -16281,6 +16282,15 @@
       "code": "KNP",
       "name": "Khanapur",
       "nearby_stations": []
+    },
+    {
+      "code": "KNPR",
+      "name": "Kendrapara Road",
+      "nearby_stations": [
+        "CTC",
+        "NRG",
+        "KIS"
+      ]
     },
     {
       "code": "KNRT",
@@ -23045,6 +23055,7 @@
       "name": "Nergundi",
       "nearby_stations": [
         "KIS",
+        "KNPR",
         "CTC"
       ]
     },
