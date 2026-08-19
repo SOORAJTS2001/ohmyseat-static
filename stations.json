@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-08-17 16:36:16 IST",
+  "updated_date": "2026-08-19 22:17:24 IST",
   "data": [
     {
       "code": "AADR",
@@ -479,8 +479,8 @@
       "code": "AII",
       "name": "Ajmer Jn",
       "nearby_stations": [
-        "MD",
         "MDJN",
+        "MD",
         "DOZ"
       ]
     },
@@ -1610,8 +1610,8 @@
       "name": "Balanagar",
       "nearby_stations": [
         "RRGA",
-        "SHNR",
-        "GLY"
+        "RJAP",
+        "SHNR"
       ]
     },
     {
@@ -8748,8 +8748,8 @@
       "name": "Daurai",
       "nearby_stations": [
         "AII",
-        "MD",
-        "MDJN"
+        "MDJN",
+        "MD"
       ]
     },
     {
@@ -10651,9 +10651,9 @@
       "code": "GLY",
       "name": "Gollapally",
       "nearby_stations": [
+        "RJAP",
         "JCL",
-        "RRGA",
-        "DTP"
+        "RRGA"
       ]
     },
     {
@@ -18572,7 +18572,9 @@
     {
       "code": "LNH",
       "name": "Laxmangarh Sikar",
-      "nearby_stations": []
+      "nearby_stations": [
+        "RDK"
+      ]
     },
     {
       "code": "LNK",
@@ -26246,6 +26248,14 @@
       ]
     },
     {
+      "code": "RDK",
+      "name": "Rasheedpura Khori",
+      "nearby_stations": [
+        "SIKR",
+        "LNH"
+      ]
+    },
+    {
       "code": "RDL",
       "name": "Rudauli",
       "nearby_stations": [
@@ -26541,6 +26551,15 @@
         "LLPR",
         "KJI",
         "MBI"
+      ]
+    },
+    {
+      "code": "RJAP",
+      "name": "Rajapur",
+      "nearby_stations": [
+        "GLY",
+        "RRGA",
+        "BABR"
       ]
     },
     {
@@ -27258,6 +27277,7 @@
       "code": "RRGA",
       "name": "Rangareddy Guda",
       "nearby_stations": [
+        "RJAP",
         "BABR",
         "GLY"
       ]
@@ -28845,7 +28865,9 @@
     {
       "code": "SIKR",
       "name": "Sikar Jn",
-      "nearby_stations": []
+      "nearby_stations": [
+        "RDK"
+      ]
     },
     {
       "code": "SIL",
