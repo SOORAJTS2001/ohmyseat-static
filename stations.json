@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-08-22 23:36:37 IST",
+  "updated_date": "2026-08-26 00:54:22 IST",
   "data": [
     {
       "code": "AADR",
@@ -322,8 +322,6 @@
       "code": "AEL",
       "name": "Ateli",
       "nearby_stations": [
-        "MBV",
-        "KTWS",
         "NNL"
       ]
     },
@@ -1054,15 +1052,6 @@
       ]
     },
     {
-      "code": "APJ",
-      "name": "Amarpur Jorasi",
-      "nearby_stations": [
-        "NNL",
-        "NIP",
-        "MBV"
-      ]
-    },
-    {
       "code": "APK",
       "name": "Aruppukkottai",
       "nearby_stations": []
@@ -1148,15 +1137,6 @@
       "nearby_stations": [
         "KPZ",
         "KPTN"
-      ]
-    },
-    {
-      "code": "ARGL",
-      "name": "Argul",
-      "nearby_stations": [
-        "KPXR",
-        "HPGM",
-        "KUR"
       ]
     },
     {
@@ -1635,14 +1615,6 @@
       ]
     },
     {
-      "code": "BAGA",
-      "name": "Bhagega",
-      "nearby_stations": [
-        "NMK",
-        "KAWT"
-      ]
-    },
-    {
       "code": "BAGD",
       "name": "Bagwada",
       "nearby_stations": [
@@ -2118,15 +2090,6 @@
         "PCQ",
         "BHP",
         "GKH"
-      ]
-    },
-    {
-      "code": "BDHL",
-      "name": "Badhal",
-      "nearby_stations": [
-        "KMNP",
-        "PCMK",
-        "RNW"
       ]
     },
     {
@@ -2691,6 +2654,11 @@
       ]
     },
     {
+      "code": "BGY",
+      "name": "Bangriposi",
+      "nearby_stations": []
+    },
+    {
       "code": "BGZ",
       "name": "Bahadurgarh",
       "nearby_stations": [
@@ -3052,15 +3020,6 @@
       "nearby_stations": [
         "PLK",
         "MLN"
-      ]
-    },
-    {
-      "code": "BILA",
-      "name": "Bheslana",
-      "nearby_stations": [
-        "MNHA",
-        "SFE",
-        "RNW"
       ]
     },
     {
@@ -4353,7 +4312,7 @@
       "nearby_stations": [
         "VZR",
         "JSE",
-        "KCV"
+        "KUCE"
       ]
     },
     {
@@ -4680,6 +4639,15 @@
         "PUS",
         "BKRO",
         "BHME"
+      ]
+    },
+    {
+      "code": "BRN",
+      "name": "Barhan",
+      "nearby_stations": [
+        "ETUE",
+        "JLS",
+        "TDL"
       ]
     },
     {
@@ -5128,7 +5096,7 @@
     },
     {
       "code": "BTI",
-      "name": "Bhatinda Jn",
+      "name": "Bathinda Jn",
       "nearby_stations": [
         "BTIC",
         "GHB",
@@ -5200,6 +5168,7 @@
       "code": "BTQ",
       "name": "Betnoti",
       "nearby_stations": [
+        "JOL",
         "KCV",
         "JRG"
       ]
@@ -5602,8 +5571,7 @@
       "name": "Bawal",
       "nearby_stations": [
         "MJNL",
-        "AIA",
-        "KORI"
+        "AIA"
       ]
     },
     {
@@ -5617,6 +5585,13 @@
       "nearby_stations": [
         "TIT",
         "KAN"
+      ]
+    },
+    {
+      "code": "BWO",
+      "name": "Buramara",
+      "nearby_stations": [
+        "KUCE"
       ]
     },
     {
@@ -7575,11 +7550,7 @@
     {
       "code": "DBLA",
       "name": "Dabla",
-      "nearby_stations": [
-        "JLLO",
-        "NIP",
-        "MADA"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "DBLG",
@@ -8026,7 +7997,7 @@
       "nearby_stations": [
         "HDA",
         "JOB",
-        "PKBS"
+        "FL"
       ]
     },
     {
@@ -9688,6 +9659,11 @@
       ]
     },
     {
+      "code": "ETAH",
+      "name": "Etah",
+      "nearby_stations": []
+    },
+    {
       "code": "ETM",
       "name": "Ettumanur",
       "nearby_stations": [
@@ -9708,7 +9684,8 @@
       "code": "ETUE",
       "name": "Etmadpur",
       "nearby_stations": [
-        "TDL"
+        "TDL",
+        "BRN"
       ]
     },
     {
@@ -9855,9 +9832,9 @@
       "code": "FL",
       "name": "Phulera Jn",
       "nearby_stations": [
-        "PKBS",
         "SBR",
-        "HDA"
+        "HDA",
+        "NRI"
       ]
     },
     {
@@ -9966,8 +9943,7 @@
       "name": "Gudha",
       "nearby_stations": [
         "SBR",
-        "FL",
-        "PKBS"
+        "FL"
       ]
     },
     {
@@ -11882,8 +11858,8 @@
       "name": "Hirnoda",
       "nearby_stations": [
         "DHND",
-        "PKBS",
-        "FL"
+        "FL",
+        "JOB"
       ]
     },
     {
@@ -12054,7 +12030,7 @@
       "nearby_stations": [
         "ROP",
         "TKPL",
-        "BLS"
+        "TKH"
       ]
     },
     {
@@ -12351,8 +12327,8 @@
       "name": "Haripur Gram",
       "nearby_stations": [
         "KUR",
-        "ARGL",
-        "MWQ"
+        "MWQ",
+        "KPXR"
       ]
     },
     {
@@ -13248,7 +13224,9 @@
     {
       "code": "JGN",
       "name": "Jagraon",
-      "nearby_stations": []
+      "nearby_stations": [
+        "NNKR"
+      ]
     },
     {
       "code": "JGNR",
@@ -13527,14 +13505,6 @@
       ]
     },
     {
-      "code": "JLLO",
-      "name": "Jhilo",
-      "nearby_stations": [
-        "DBLA",
-        "MADA"
-      ]
-    },
-    {
       "code": "JLN",
       "name": "Jakhalaun",
       "nearby_stations": [
@@ -13553,7 +13523,10 @@
     {
       "code": "JLS",
       "name": "Jalesar Road",
-      "nearby_stations": []
+      "nearby_stations": [
+        "BRN",
+        "JSC"
+      ]
     },
     {
       "code": "JLWC",
@@ -13820,6 +13793,15 @@
       ]
     },
     {
+      "code": "JOL",
+      "name": "Jogal",
+      "nearby_stations": [
+        "JRG",
+        "BTQ",
+        "TKH"
+      ]
+    },
+    {
       "code": "JOM",
       "name": "Jogi Magra",
       "nearby_stations": [
@@ -13938,9 +13920,9 @@
       "code": "JRG",
       "name": "Jugpura",
       "nearby_stations": [
-        "BTQ",
-        "ROP",
-        "NMBR"
+        "JOL",
+        "TKH",
+        "BTQ"
       ]
     },
     {
@@ -14066,6 +14048,13 @@
         "MNC",
         "MDP",
         "VDS"
+      ]
+    },
+    {
+      "code": "JSC",
+      "name": "Jalesar City",
+      "nearby_stations": [
+        "JLS"
       ]
     },
     {
@@ -14546,10 +14535,7 @@
     {
       "code": "KAWT",
       "name": "Kanwat",
-      "nearby_stations": [
-        "KHRA",
-        "BAGA"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "KBA",
@@ -15274,14 +15260,6 @@
       "nearby_stations": [
         "CKTD",
         "BIP"
-      ]
-    },
-    {
-      "code": "KHRA",
-      "name": "Khachera",
-      "nearby_stations": [
-        "KAWT",
-        "SMPR"
       ]
     },
     {
@@ -16147,14 +16125,6 @@
       ]
     },
     {
-      "code": "KMNP",
-      "name": "Kishan Manpura",
-      "nearby_stations": [
-        "BDHL",
-        "RGS"
-      ]
-    },
-    {
       "code": "KMNR",
       "name": "Kamalnagar",
       "nearby_stations": [
@@ -16287,15 +16257,6 @@
         "KZU",
         "BRBS",
         "MIK"
-      ]
-    },
-    {
-      "code": "KNDL",
-      "name": "Khandel",
-      "nearby_stations": [
-        "PKBS",
-        "SFE",
-        "HDA"
       ]
     },
     {
@@ -16588,15 +16549,6 @@
       ]
     },
     {
-      "code": "KORI",
-      "name": "Khori",
-      "nearby_stations": [
-        "NNU",
-        "KUND",
-        "KGBS"
-      ]
-    },
-    {
       "code": "KOTA",
       "name": "Kota Jn",
       "nearby_stations": [
@@ -16811,9 +16763,9 @@
       "code": "KPXR",
       "name": "Kaipada Road",
       "nearby_stations": [
-        "ARGL",
         "HPGM",
-        "TAP"
+        "TAP",
+        "KUR"
       ]
     },
     {
@@ -17594,14 +17546,6 @@
       ]
     },
     {
-      "code": "KTWS",
-      "name": "Kathuwas",
-      "nearby_stations": [
-        "KUND",
-        "AEL"
-      ]
-    },
-    {
       "code": "KTX",
       "name": "Katakhal Jn",
       "nearby_stations": [
@@ -17640,6 +17584,15 @@
         "AFK",
         "DINR",
         "CKI"
+      ]
+    },
+    {
+      "code": "KUCE",
+      "name": "Kuchai",
+      "nearby_stations": [
+        "VZR",
+        "BPO",
+        "BWO"
       ]
     },
     {
@@ -17716,14 +17669,6 @@
       ]
     },
     {
-      "code": "KUND",
-      "name": "Kund",
-      "nearby_stations": [
-        "KTWS",
-        "KORI"
-      ]
-    },
-    {
       "code": "KUPR",
       "name": "Khurdpur",
       "nearby_stations": []
@@ -17733,8 +17678,8 @@
       "name": "Khurda Road Jn",
       "nearby_stations": [
         "HPGM",
-        "ARGL",
-        "MWQ"
+        "MWQ",
+        "KPXR"
       ]
     },
     {
@@ -19030,15 +18975,6 @@
       ]
     },
     {
-      "code": "MADA",
-      "name": "Maonda",
-      "nearby_stations": [
-        "JLLO",
-        "NMK",
-        "DBLA"
-      ]
-    },
-    {
       "code": "MADR",
       "name": "Madure",
       "nearby_stations": [
@@ -19321,15 +19257,6 @@
       ]
     },
     {
-      "code": "MBV",
-      "name": "Mirzapur Bachhaud",
-      "nearby_stations": [
-        "AEL",
-        "NNL",
-        "APJ"
-      ]
-    },
-    {
       "code": "MBY",
       "name": "Mandi Dabwali",
       "nearby_stations": [
@@ -19536,7 +19463,7 @@
     },
     {
       "code": "MDRR",
-      "name": "Madavnagar Road",
+      "name": "Madhavnagar Roa",
       "nearby_stations": [
         "KTES",
         "KMZ",
@@ -20686,15 +20613,6 @@
       ]
     },
     {
-      "code": "MNHA",
-      "name": "Mindha",
-      "nearby_stations": [
-        "RNW",
-        "BILA",
-        "PCMK"
-      ]
-    },
-    {
       "code": "MNI",
       "name": "Mangaon",
       "nearby_stations": [
@@ -20769,6 +20687,13 @@
       "code": "MNV",
       "name": "Mungaoli",
       "nearby_stations": []
+    },
+    {
+      "code": "MNVL",
+      "name": "Manwal",
+      "nearby_stations": [
+        "RMJK"
+      ]
     },
     {
       "code": "MO",
@@ -22629,15 +22554,6 @@
       ]
     },
     {
-      "code": "NIP",
-      "name": "Nizampur",
-      "nearby_stations": [
-        "APJ",
-        "DBLA",
-        "NNL"
-      ]
-    },
-    {
       "code": "NIR",
       "name": "Nainpur Jn",
       "nearby_stations": []
@@ -22927,7 +22843,7 @@
       "nearby_stations": [
         "BTS",
         "ROP",
-        "ARD"
+        "TKH"
       ]
     },
     {
@@ -23002,10 +22918,7 @@
     {
       "code": "NMK",
       "name": "Nim Ka Thana",
-      "nearby_stations": [
-        "MADA",
-        "BAGA"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "NMKL",
@@ -23075,12 +22988,17 @@
       ]
     },
     {
+      "code": "NNKR",
+      "name": "Nanaksar",
+      "nearby_stations": [
+        "JGN"
+      ]
+    },
+    {
       "code": "NNL",
       "name": "Narnaul",
       "nearby_stations": [
-        "APJ",
-        "MBV",
-        "NIP"
+        "AEL"
       ]
     },
     {
@@ -23111,9 +23029,9 @@
       "code": "NNU",
       "name": "Nangal Mundi",
       "nearby_stations": [
-        "KORI",
         "KGBS",
-        "JTS"
+        "JTS",
+        "DZB"
       ]
     },
     {
@@ -23279,8 +23197,7 @@
       "name": "Naraina",
       "nearby_stations": [
         "FL",
-        "SBR",
-        "PKBS"
+        "SBR"
       ]
     },
     {
@@ -24243,15 +24160,6 @@
       ]
     },
     {
-      "code": "PCMK",
-      "name": "Pacharmalikpura",
-      "nearby_stations": [
-        "RNW",
-        "BDHL",
-        "MNHA"
-      ]
-    },
-    {
       "code": "PCN",
       "name": "Panch Pipila",
       "nearby_stations": [
@@ -24854,15 +24762,6 @@
         "LKG",
         "LMG",
         "MYD"
-      ]
-    },
-    {
-      "code": "PKBS",
-      "name": "Peeplee Ka Bas",
-      "nearby_stations": [
-        "FL",
-        "KNDL",
-        "HDA"
       ]
     },
     {
@@ -26527,7 +26426,7 @@
       "nearby_stations": [
         "KGBS",
         "KIP",
-        "KORI"
+        "NNU"
       ]
     },
     {
@@ -26683,7 +26582,6 @@
       "code": "RGS",
       "name": "Ringas Jn",
       "nearby_stations": [
-        "KMNP",
         "SMPR"
       ]
     },
@@ -27050,7 +26948,8 @@
       "name": "Ram Nagar J K",
       "nearby_stations": [
         "MCTM",
-        "CRWL"
+        "CRWL",
+        "MNVL"
       ]
     },
     {
@@ -27285,11 +27184,7 @@
     {
       "code": "RNW",
       "name": "Renwal",
-      "nearby_stations": [
-        "MNHA",
-        "PCMK",
-        "BILA"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "RNY",
@@ -27354,8 +27249,8 @@
       "name": "Rupsa Jn",
       "nearby_stations": [
         "NMBR",
-        "HIP",
-        "BTS"
+        "TKH",
+        "HIP"
       ]
     },
     {
@@ -28133,7 +28028,7 @@
       "nearby_stations": [
         "GA",
         "FL",
-        "PKBS"
+        "NRI"
       ]
     },
     {
@@ -28586,15 +28481,6 @@
       "name": "Saintala",
       "nearby_stations": [
         "BUDM"
-      ]
-    },
-    {
-      "code": "SFE",
-      "name": "Sanodiya",
-      "nearby_stations": [
-        "KNDL",
-        "BILA",
-        "PKBS"
       ]
     },
     {
@@ -29716,7 +29602,6 @@
       "code": "SMPR",
       "name": "Shri Madhopur",
       "nearby_stations": [
-        "KHRA",
         "RGS"
       ]
     },
@@ -31403,8 +31288,7 @@
       "name": "Tapang",
       "nearby_stations": [
         "KPXR",
-        "NKP",
-        "ARGL"
+        "NKP"
       ]
     },
     {
@@ -31523,7 +31407,8 @@
       "code": "TDL",
       "name": "Tundla Jn",
       "nearby_stations": [
-        "ETUE"
+        "ETUE",
+        "BRN"
       ]
     },
     {
@@ -32004,6 +31889,15 @@
       "name": "Thakurganj",
       "nearby_stations": [
         "GAGA"
+      ]
+    },
+    {
+      "code": "TKH",
+      "name": "Thakurtota",
+      "nearby_stations": [
+        "ROP",
+        "JRG",
+        "NMBR"
       ]
     },
     {
@@ -34222,6 +34116,7 @@
       "name": "Bhanjpur",
       "nearby_stations": [
         "BPO",
+        "KUCE",
         "JSE"
       ]
     },
