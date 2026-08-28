@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-08-26 00:54:22 IST",
+  "updated_date": "2026-08-29 02:14:27 IST",
   "data": [
     {
       "code": "AADR",
@@ -4639,15 +4639,6 @@
         "PUS",
         "BKRO",
         "BHME"
-      ]
-    },
-    {
-      "code": "BRN",
-      "name": "Barhan",
-      "nearby_stations": [
-        "ETUE",
-        "JLS",
-        "TDL"
       ]
     },
     {
@@ -9302,6 +9293,13 @@
       ]
     },
     {
+      "code": "DWA",
+      "name": "Dailwara",
+      "nearby_stations": [
+        "LAR"
+      ]
+    },
+    {
       "code": "DWD",
       "name": "Dhekvad",
       "nearby_stations": [
@@ -9659,11 +9657,6 @@
       ]
     },
     {
-      "code": "ETAH",
-      "name": "Etah",
-      "nearby_stations": []
-    },
-    {
       "code": "ETM",
       "name": "Ettumanur",
       "nearby_stations": [
@@ -9684,8 +9677,7 @@
       "code": "ETUE",
       "name": "Etmadpur",
       "nearby_stations": [
-        "TDL",
-        "BRN"
+        "TDL"
       ]
     },
     {
@@ -13523,10 +13515,7 @@
     {
       "code": "JLS",
       "name": "Jalesar Road",
-      "nearby_stations": [
-        "BRN",
-        "JSC"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "JLWC",
@@ -14048,13 +14037,6 @@
         "MNC",
         "MDP",
         "VDS"
-      ]
-    },
-    {
-      "code": "JSC",
-      "name": "Jalesar City",
-      "nearby_stations": [
-        "JLS"
       ]
     },
     {
@@ -18176,7 +18158,9 @@
     {
       "code": "LAR",
       "name": "Lalitpur",
-      "nearby_stations": []
+      "nearby_stations": [
+        "DWA"
+      ]
     },
     {
       "code": "LAT",
@@ -19463,7 +19447,7 @@
     },
     {
       "code": "MDRR",
-      "name": "Madhavnagar Roa",
+      "name": "Madavnagar Road",
       "nearby_stations": [
         "KTES",
         "KMZ",
@@ -26970,7 +26954,7 @@
     },
     {
       "code": "RMNP",
-      "name": "Ramannapet",
+      "name": "Ramannapeta",
       "nearby_stations": [
         "CTYL"
       ]
@@ -31407,8 +31391,7 @@
       "code": "TDL",
       "name": "Tundla Jn",
       "nearby_stations": [
-        "ETUE",
-        "BRN"
+        "ETUE"
       ]
     },
     {
