@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-09-01 03:37:36 IST",
+  "updated_date": "2026-09-04 05:01:13 IST",
   "data": [
     {
       "code": "AADR",
@@ -4620,7 +4620,9 @@
     {
       "code": "BRK",
       "name": "Bahraich",
-      "nearby_stations": []
+      "nearby_stations": [
+        "RS"
+      ]
     },
     {
       "code": "BRKA",
@@ -5090,8 +5092,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BE",
-        "BRY"
+        "BRY",
+        "BE"
       ]
     },
     {
@@ -6508,7 +6510,7 @@
     },
     {
       "code": "CKKD",
-      "name": "Chharkhera Kurd",
+      "name": "Charkhera Khurd",
       "nearby_stations": [
         "CAER",
         "SGBJ"
@@ -7754,7 +7756,7 @@
       "nearby_stations": [
         "KEI",
         "BCY",
-        "SRNT"
+        "NPBR"
       ]
     },
     {
@@ -18118,6 +18120,7 @@
       "code": "KYT",
       "name": "Kailahat",
       "nearby_stations": [
+        "NPBR",
         "CAR",
         "BHLP"
       ]
@@ -23108,6 +23111,11 @@
       ]
     },
     {
+      "code": "NNP",
+      "name": "Nanpara Jn",
+      "nearby_stations": []
+    },
+    {
       "code": "NNR",
       "name": "Narayanpur",
       "nearby_stations": [
@@ -23161,6 +23169,15 @@
       ]
     },
     {
+      "code": "NPBR",
+      "name": "Narayanpur Bazar",
+      "nearby_stations": [
+        "KYT",
+        "BHLP",
+        "BNRS"
+      ]
+    },
+    {
       "code": "NPD",
       "name": "Nawapara Road",
       "nearby_stations": [
@@ -23182,6 +23199,11 @@
       "nearby_stations": [
         "SXA"
       ]
+    },
+    {
+      "code": "NPR",
+      "name": "Nepalganj Road",
+      "nearby_stations": []
     },
     {
       "code": "NPRD",
@@ -25872,13 +25894,6 @@
       ]
     },
     {
-      "code": "PSV",
-      "name": "Parsneu",
-      "nearby_stations": [
-        "RJR"
-      ]
-    },
-    {
       "code": "PT",
       "name": "Patli",
       "nearby_stations": [
@@ -26851,7 +26866,6 @@
       "code": "RJR",
       "name": "Rajaldesar",
       "nearby_stations": [
-        "PSV",
         "PIH",
         "RTGH"
       ]
@@ -27068,7 +27082,7 @@
     },
     {
       "code": "RMNP",
-      "name": "Ramannapeta",
+      "name": "Ramannapet",
       "nearby_stations": [
         "CTYL"
       ]
@@ -27543,6 +27557,13 @@
         "BAO",
         "SAC",
         "BLNR"
+      ]
+    },
+    {
+      "code": "RS",
+      "name": "Risia",
+      "nearby_stations": [
+        "BRK"
       ]
     },
     {
@@ -30347,8 +30368,7 @@
       "code": "SRE",
       "name": "Saharanpur",
       "nearby_stations": [
-        "TPZ",
-        "SSW"
+        "TPZ"
       ]
     },
     {
@@ -30666,13 +30686,6 @@
         "HDP",
         "PUNE",
         "SVJR"
-      ]
-    },
-    {
-      "code": "SSW",
-      "name": "Sarsawa",
-      "nearby_stations": [
-        "SRE"
       ]
     },
     {
