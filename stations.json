@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-09-04 05:01:13 IST",
+  "updated_date": "2026-09-07 06:24:15 IST",
   "data": [
     {
       "code": "AADR",
@@ -786,7 +786,7 @@
     },
     {
       "code": "AMPA",
-      "name": "Ambalapuzha",
+      "name": "Ambalappuzha",
       "nearby_stations": [
         "ALLP"
       ]
@@ -5092,8 +5092,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BRY",
-        "BE"
+        "BE",
+        "BRY"
       ]
     },
     {
@@ -5980,7 +5980,7 @@
       "nearby_stations": [
         "IZN",
         "BC",
-        "BE"
+        "BRY"
       ]
     },
     {
@@ -6698,7 +6698,9 @@
     {
       "code": "CMGR",
       "name": "Chikkamanglur",
-      "nearby_stations": []
+      "nearby_stations": [
+        "KNVH"
+      ]
     },
     {
       "code": "CMJ",
@@ -12407,9 +12409,9 @@
       "code": "HPT",
       "name": "Hospet Jn",
       "nearby_stations": [
+        "TBDM",
         "MRB",
-        "HTNL",
-        "MMI"
+        "HTNL"
       ]
     },
     {
@@ -13020,7 +13022,7 @@
       "nearby_stations": [
         "BC",
         "CBJ",
-        "BE"
+        "BRY"
       ]
     },
     {
@@ -16492,6 +16494,14 @@
       "code": "KNT",
       "name": "Kanth",
       "nearby_stations": []
+    },
+    {
+      "code": "KNVH",
+      "name": "Kanivehalli",
+      "nearby_stations": [
+        "SHYP",
+        "CMGR"
+      ]
     },
     {
       "code": "KNVT",
@@ -20562,6 +20572,7 @@
       "code": "MMI",
       "name": "Mariyamanahalli",
       "nearby_stations": [
+        "TBDM",
         "HPT"
       ]
     },
@@ -21110,9 +21121,9 @@
       "code": "MRB",
       "name": "Munirabad",
       "nearby_stations": [
+        "TBDM",
         "HTNL",
-        "HPT",
-        "GIN"
+        "HPT"
       ]
     },
     {
@@ -29058,7 +29069,8 @@
       "code": "SHYP",
       "name": "Sakarayapatna",
       "nearby_stations": [
-        "BLHI"
+        "BLHI",
+        "KNVH"
       ]
     },
     {
@@ -31449,6 +31461,15 @@
         "MUG",
         "KJU",
         "BSAE"
+      ]
+    },
+    {
+      "code": "TBDM",
+      "name": "Tungabhadra Dam",
+      "nearby_stations": [
+        "HPT",
+        "MRB",
+        "HTNL"
       ]
     },
     {
