@@ -1,5 +1,5 @@
 {
-  "updated_date": "2026-09-07 06:24:15 IST",
+  "updated_date": "2026-09-10 07:47:11 IST",
   "data": [
     {
       "code": "AADR",
@@ -1949,8 +1949,8 @@
       "code": "BC",
       "name": "Bareilly City",
       "nearby_stations": [
-        "BE",
         "BRY",
+        "BE",
         "IZN"
       ]
     },
@@ -3320,6 +3320,15 @@
       "code": "BKL",
       "name": "Bona Kalu",
       "nearby_stations": []
+    },
+    {
+      "code": "BKLA",
+      "name": "Bakulha",
+      "nearby_stations": [
+        "MHT",
+        "SIP",
+        "GTST"
+      ]
     },
     {
       "code": "BKN",
@@ -5092,8 +5101,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BE",
-        "BRY"
+        "BRY",
+        "BE"
       ]
     },
     {
@@ -5819,6 +5828,15 @@
         "TYAE",
         "REJ",
         "BEB"
+      ]
+    },
+    {
+      "code": "BZM",
+      "name": "Bhimsen",
+      "nearby_stations": [
+        "PNKD",
+        "KAP",
+        "GOY"
       ]
     },
     {
@@ -19392,8 +19410,8 @@
       "code": "MCPE",
       "name": "Marwar Chapri",
       "nearby_stations": [
-        "MTDB",
         "MTD",
+        "MTDB",
         "JOM"
       ]
     },
@@ -19970,9 +19988,9 @@
       "code": "MHT",
       "name": "Manjhi",
       "nearby_stations": [
+        "BKLA",
         "KPS",
-        "DDP",
-        "GTST"
+        "DDP"
       ]
     },
     {
@@ -21422,7 +21440,7 @@
     },
     {
       "code": "MTDB",
-      "name": "Merta Rd Bypass",
+      "name": "Merta Road Bypass",
       "nearby_stations": [
         "MTD",
         "MCPE",
@@ -25265,9 +25283,9 @@
       "code": "PNKD",
       "name": "Panki Dham",
       "nearby_stations": [
+        "BZM",
         "KAP",
-        "RPO",
-        "GOY"
+        "RPO"
       ]
     },
     {
@@ -29185,6 +29203,7 @@
       "code": "SIP",
       "name": "Suraimanpur",
       "nearby_stations": [
+        "BKLA",
         "MHT",
         "ROI"
       ]
