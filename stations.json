@@ -1,6 +1,15 @@
 {
-  "updated_date": "2026-09-10 07:47:11 IST",
+  "updated_date": "2026-09-13 09:06:19 IST",
   "data": [
+    {
+      "code": "AA",
+      "name": "Ataria",
+      "nearby_stations": [
+        "MANW",
+        "IJ",
+        "SD"
+      ]
+    },
     {
       "code": "AADR",
       "name": "Amb Andaura",
@@ -810,6 +819,15 @@
       "name": "Ammasandra",
       "nearby_stations": [
         "BSN"
+      ]
+    },
+    {
+      "code": "AMVA",
+      "name": "Amaravila Halt",
+      "nearby_stations": [
+        "NYY",
+        "DAVM",
+        "BRAM"
       ]
     },
     {
@@ -2450,6 +2468,15 @@
       ]
     },
     {
+      "code": "BFV",
+      "name": "Bahelia Buzurg",
+      "nearby_stations": [
+        "GK",
+        "PD",
+        "RZJ"
+      ]
+    },
+    {
       "code": "BG",
       "name": "Bhongir",
       "nearby_stations": [
@@ -3179,6 +3206,15 @@
       ]
     },
     {
+      "code": "BJLP",
+      "name": "Barai Jalalpur",
+      "nearby_stations": [
+        "KMP",
+        "KB",
+        "SUIA"
+      ]
+    },
+    {
       "code": "BJM",
       "name": "Bhagavathipuram",
       "nearby_stations": [
@@ -3392,6 +3428,15 @@
         "TKB",
         "RJB",
         "CRP"
+      ]
+    },
+    {
+      "code": "BKT",
+      "name": "Bakshi Ka Talab",
+      "nearby_stations": [
+        "MBP",
+        "IJ",
+        "DAL"
       ]
     },
     {
@@ -3959,6 +4004,13 @@
       ]
     },
     {
+      "code": "BNKJ",
+      "name": "Banke Ganj",
+      "nearby_stations": [
+        "GK"
+      ]
+    },
+    {
       "code": "BNL",
       "name": "Bevinahalu",
       "nearby_stations": [
@@ -4506,8 +4558,8 @@
       "name": "Balaramapuram",
       "nearby_stations": [
         "NYY",
-        "DAVM",
-        "TVC"
+        "AMVA",
+        "DAVM"
       ]
     },
     {
@@ -5101,8 +5153,8 @@
       "name": "Basharatganj",
       "nearby_stations": [
         "AO",
-        "BRY",
-        "BE"
+        "BE",
+        "BRY"
       ]
     },
     {
@@ -5340,6 +5392,15 @@
         "BDSW",
         "DPK",
         "HLW"
+      ]
+    },
+    {
+      "code": "BUGN",
+      "name": "Bhurjiha Baragn",
+      "nearby_stations": [
+        "JKP",
+        "SPC",
+        "STP"
       ]
     },
     {
@@ -5998,7 +6059,7 @@
       "nearby_stations": [
         "IZN",
         "BC",
-        "BRY"
+        "BE"
       ]
     },
     {
@@ -7509,9 +7570,9 @@
       "code": "DAVM",
       "name": "Dhanuvachapuram",
       "nearby_stations": [
+        "AMVA",
         "NYY",
-        "PASA",
-        "BRAM"
+        "PASA"
       ]
     },
     {
@@ -7829,6 +7890,15 @@
         "KASR",
         "BRST",
         "MWQ"
+      ]
+    },
+    {
+      "code": "DEO",
+      "name": "Deokali",
+      "nearby_stations": [
+        "PD",
+        "RZJ",
+        "LMP"
       ]
     },
     {
@@ -8353,15 +8423,6 @@
       "nearby_stations": [
         "DEOR",
         "JSI"
-      ]
-    },
-    {
-      "code": "DKY",
-      "name": "Dhoki",
-      "nearby_stations": [
-        "KMRD",
-        "YSI",
-        "DRSV"
       ]
     },
     {
@@ -9065,9 +9126,7 @@
       "code": "DRSV",
       "name": "Dharashiv",
       "nearby_stations": [
-        "YSI",
-        "KMRD",
-        "DKY"
+        "YSI"
       ]
     },
     {
@@ -10649,7 +10708,10 @@
     {
       "code": "GK",
       "name": "Gola Gokaranath",
-      "nearby_stations": []
+      "nearby_stations": [
+        "BFV",
+        "BNKJ"
+      ]
     },
     {
       "code": "GKC",
@@ -11758,7 +11820,11 @@
     {
       "code": "HA",
       "name": "Hargaon",
-      "nearby_stations": []
+      "nearby_stations": [
+        "PMM",
+        "OEL",
+        "JKP"
+      ]
     },
     {
       "code": "HAA",
@@ -12052,7 +12118,6 @@
       "code": "HGL",
       "name": "Harangul",
       "nearby_stations": [
-        "OSA",
         "LUR"
       ]
     },
@@ -12875,6 +12940,14 @@
       ]
     },
     {
+      "code": "IJ",
+      "name": "Itaunja",
+      "nearby_stations": [
+        "AA",
+        "BKT"
+      ]
+    },
+    {
       "code": "IJK",
       "name": "Irinjalakuda",
       "nearby_stations": [
@@ -13532,6 +13605,15 @@
         "GYF",
         "TKPY",
         "RLO"
+      ]
+    },
+    {
+      "code": "JKP",
+      "name": "Jharekapur",
+      "nearby_stations": [
+        "BUGN",
+        "PMM",
+        "HA"
       ]
     },
     {
@@ -14607,6 +14689,15 @@
       "nearby_stations": []
     },
     {
+      "code": "KB",
+      "name": "Khairabad Awadh",
+      "nearby_stations": [
+        "STP",
+        "SPC",
+        "BJLP"
+      ]
+    },
+    {
       "code": "KBA",
       "name": "Kurabalakota",
       "nearby_stations": [
@@ -14923,6 +15014,15 @@
         "LAV",
         "KWE",
         "HCR"
+      ]
+    },
+    {
+      "code": "KDPS",
+      "name": "Kadipur Sani Ha",
+      "nearby_stations": [
+        "KITN",
+        "OEL",
+        "LMP"
       ]
     },
     {
@@ -15505,6 +15605,15 @@
       "nearby_stations": [
         "RBA",
         "CLKA"
+      ]
+    },
+    {
+      "code": "KITN",
+      "name": "Khiri Town",
+      "nearby_stations": [
+        "KDPS",
+        "LMP",
+        "OEL"
       ]
     },
     {
@@ -16231,6 +16340,15 @@
       ]
     },
     {
+      "code": "KMP",
+      "name": "Kamlapur",
+      "nearby_stations": [
+        "SUIA",
+        "BJLP",
+        "SD"
+      ]
+    },
+    {
       "code": "KMPU",
       "name": "Kamalapur",
       "nearby_stations": []
@@ -16250,15 +16368,6 @@
         "JUR",
         "TU",
         "VML"
-      ]
-    },
-    {
-      "code": "KMRD",
-      "name": "Kalamb Road",
-      "nearby_stations": [
-        "DKY",
-        "YSI",
-        "DRSV"
       ]
     },
     {
@@ -17968,9 +18077,7 @@
     {
       "code": "KWV",
       "name": "Kurduvadi",
-      "nearby_stations": [
-        "SEI"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "KXG",
@@ -18773,7 +18880,11 @@
     {
       "code": "LMP",
       "name": "Lakhimpur",
-      "nearby_stations": []
+      "nearby_stations": [
+        "KITN",
+        "DEO",
+        "KDPS"
+      ]
     },
     {
       "code": "LMT",
@@ -19051,9 +19162,7 @@
     {
       "code": "MA",
       "name": "Madha",
-      "nearby_stations": [
-        "SEI"
-      ]
+      "nearby_stations": []
     },
     {
       "code": "MABA",
@@ -19193,6 +19302,15 @@
         "SKAP",
         "NLKT",
         "JWNR"
+      ]
+    },
+    {
+      "code": "MANW",
+      "name": "Manwa",
+      "nearby_stations": [
+        "AA",
+        "SD",
+        "SUIA"
       ]
     },
     {
@@ -23750,9 +23868,9 @@
       "code": "NYY",
       "name": "Neyyattinkara",
       "nearby_stations": [
+        "AMVA",
         "BRAM",
-        "DAVM",
-        "PASA"
+        "DAVM"
       ]
     },
     {
@@ -23849,6 +23967,15 @@
         "PTKP",
         "KOLR",
         "BGSF"
+      ]
+    },
+    {
+      "code": "OEL",
+      "name": "Oel",
+      "nearby_stations": [
+        "KDPS",
+        "HA",
+        "KITN"
       ]
     },
     {
@@ -23971,13 +24098,6 @@
       "nearby_stations": [
         "DBU",
         "MKL"
-      ]
-    },
-    {
-      "code": "OSA",
-      "name": "Ausa Road",
-      "nearby_stations": [
-        "HGL"
       ]
     },
     {
@@ -24366,6 +24486,15 @@
         "KRA",
         "GHPU",
         "DKJ"
+      ]
+    },
+    {
+      "code": "PD",
+      "name": "Pharadahan",
+      "nearby_stations": [
+        "RZJ",
+        "DEO",
+        "BFV"
       ]
     },
     {
@@ -24881,13 +25010,6 @@
       ]
     },
     {
-      "code": "PJR",
-      "name": "Pangri",
-      "nearby_stations": [
-        "YSI"
-      ]
-    },
-    {
       "code": "PKA",
       "name": "Pradhankhunta",
       "nearby_stations": [
@@ -25176,6 +25298,15 @@
       "name": "Papanasam",
       "nearby_stations": [
         "KMU"
+      ]
+    },
+    {
+      "code": "PMM",
+      "name": "Parsehra Mal",
+      "nearby_stations": [
+        "HA",
+        "JKP",
+        "OEL"
       ]
     },
     {
@@ -25607,7 +25738,7 @@
     },
     {
       "code": "PQN",
-      "name": "Pariawan K.K.Rd",
+      "name": "Pariawan Kalakanker Rd",
       "nearby_stations": [
         "GRMR",
         "UCR"
@@ -27816,6 +27947,15 @@
       ]
     },
     {
+      "code": "RZJ",
+      "name": "Razaganj",
+      "nearby_stations": [
+        "PD",
+        "DEO",
+        "BFV"
+      ]
+    },
+    {
       "code": "S",
       "name": "Shrirangapatna",
       "nearby_stations": [
@@ -28339,7 +28479,11 @@
     {
       "code": "SD",
       "name": "Sidhauli",
-      "nearby_stations": []
+      "nearby_stations": [
+        "SUIA",
+        "MANW",
+        "KMP"
+      ]
     },
     {
       "code": "SDAH",
@@ -28529,14 +28673,6 @@
         "BKTL",
         "PNWN",
         "PRB"
-      ]
-    },
-    {
-      "code": "SEI",
-      "name": "Shendri",
-      "nearby_stations": [
-        "MA",
-        "KWV"
       ]
     },
     {
@@ -30191,7 +30327,9 @@
       "code": "SPC",
       "name": "Sitapur City",
       "nearby_stations": [
-        "STP"
+        "STP",
+        "BUGN",
+        "KB"
       ]
     },
     {
@@ -30828,7 +30966,9 @@
       "code": "STP",
       "name": "Sitapur",
       "nearby_stations": [
-        "SPC"
+        "SPC",
+        "KB",
+        "BUGN"
       ]
     },
     {
@@ -30903,6 +31043,15 @@
         "BWK",
         "BNWC",
         "BNW"
+      ]
+    },
+    {
+      "code": "SUIA",
+      "name": "Suraincha",
+      "nearby_stations": [
+        "KMP",
+        "SD",
+        "BJLP"
       ]
     },
     {
@@ -34705,9 +34854,7 @@
       "code": "YSI",
       "name": "Yedeshi",
       "nearby_stations": [
-        "DRSV",
-        "KMRD",
-        "PJR"
+        "DRSV"
       ]
     },
     {
